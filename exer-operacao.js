@@ -6,4 +6,4 @@ while (num == quantidade) {
     alert(`Por favor, digite apenas 1, 2 ou 3`)
     metodoDePagamento = parseInt(prompt(mensagem))
 
-    //AINDA EM CONSTRUÇÃO ----------
+    
